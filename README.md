@@ -17,9 +17,9 @@
   •
   <a href="#-getting-started">Getting Started</a>
   •
-  <a href="features">Features</a>
+  <a href="#-features">Features</a>
   •
-  <a href="contributing">Contributing</a>
+  <a href="#-contributing">Contributing</a>
 </p>
 
 <br>
@@ -56,7 +56,7 @@ If you need any additional help, make sure to read our guides [here](docs/additi
 
 <br>
 
-<h1 align="center"> ✨ Features ✨ </h1>
+## ✨ Features
 
 ### 📡 **Advanced Dashboard**
 
@@ -150,7 +150,7 @@ If you need any additional help, make sure to read our guides [here](docs/additi
 
 <br>
 
-<h1 align="center"> 🤝 Contributing 🤝 </h1>
+## 🤝 Contributing
 
 - Special thanks to [@Androzz](https://github.com/Androz2091/AtlantaBot) for the [dashboard](https://github.com/Androz2091/AtlantaBot) and his other cool discord bot projects
 - Feel free to [Fork](https://github.com/saiteja-madha/discord-js-bot/fork) this repository, create a feature branch and submit a pull request
