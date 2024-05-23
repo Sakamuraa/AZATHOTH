@@ -41,8 +41,8 @@
 - Open the terminal and run the following commands
 
 ```
-git clone https://github.com/saiteja-madha/discord-js-bot.git
-cd discord-js-bot
+git clone https://github.com/Sakamuraa/ONHEIL.git
+cd ONHEIL
 npm install
 ```
 
