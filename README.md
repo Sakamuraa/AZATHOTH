@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/Sakamuraa"><img src="https://yt3.googleusercontent.com/m_RK-tlTnywYzMBmYzoBKObBfKZA0PRD8-tNJn77sHJUalY_0vn0OIyleotjcgVXnqktb9QJ=s900-c-k-c0x00ffffff-no-rj" height="200" alt="ONHEIL"></a>
   <br>
-  ONHEIL
+  AZATHOTH
   <br>
 </h1>
 
@@ -28,11 +28,11 @@
 
 - 🤖 Demo Bot: [Invite Here](https://discord.com/oauth2/authorize?client_id=1222674847461543936&permissions=8&scope=bot%20applications.commands)
 - 🤝 Support Server: [Join Here](https://discord.gg/j8gw8Ur57W)
-- 📖 Wiki: [Here](https://github.com/Sakamuraa/ONHEIL/wiki)
+- 📖 Wiki: [Here](https://github.com/Sakamuraa/AZATHOTH/wiki)
 
 ## 📦 Prerequisites
 
-- [Node.js](https://nodejs.org/en/) v16.11.0 or higher
+- [Node.js](https://nodejs.org/en/) v18.20.0 or higher
 - [Git](https://git-scm.com/downloads)
 - [MongoDB](https://www.mongodb.com)
 
@@ -152,5 +152,5 @@ If you need any additional help, make sure to read our guides [here](docs/additi
 ## 🤝 Contributing
 
 - Special thanks to [@Androzz](https://github.com/Androz2091/AtlantaBot) for the [dashboard](https://github.com/Androz2091/AtlantaBot) and his other cool discord bot projects
-- Feel free to [Fork](https://github.com/Sakamuraa/ONHEIL/fork) this repository, create a feature branch and submit a pull request
-- You can keep track of all the planned features [here](https://github.com/Sakamuraa/ONHEIL/projects) or make a request for one at our discord
+- Feel free to [Fork](https://github.com/Sakamuraa/AZATHOTH/fork) this repository, create a feature branch and submit a pull request
+- You can keep track of all the planned features [here](https://github.com/Sakamuraa/AZATHOTH/projects) or make a request for one at our discord
