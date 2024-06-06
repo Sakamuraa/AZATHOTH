@@ -41,8 +41,8 @@
 - Open the terminal and run the following commands
 
 ```
-git clone https://github.com/Sakamuraa/ONHEIL.git
-cd ONHEIL
+git clone https://github.com/Sakamuraa/AZATHOTH.git
+cd AZATHOTH
 npm install
 ```
 
